@@ -1,0 +1,5 @@
+git clone 'https://github.com/RafsanAmin/eslint-configure.git'
+cd './eslint-configure'
+mv 'a.eslintrc' '.eslintrc'
+copy * 'C:\Users\RAFSAN-PC\AppData\Roaming\npm\'
+rmdir './eslint-configure'
